@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "dotenv": "^16.0.3"
+  },
+  "scripts": {
+    "test": "node test.js"
   }
 }
